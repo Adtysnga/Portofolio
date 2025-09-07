@@ -2,36 +2,14 @@
 
 
 **Ringkasan Proyek**
-Proyek ini bertujuan untuk melakukan analisis mendalam terhadap data penjualan retail. Proyek ini dibuat sebagai bagian dari portofolio Data Analyst untuk menunjukkan kemampuan dalam mengelola data, melakukan analisis mendalam, dan mengkomunikasikan insight bisnis melalui visualisasi.
-
+Proyek ini bertujuan untuk melakukan analisis mendalam terhadap data penjualan retail. Proyek ini dibuat sebagai bagian dari portofolio Data Analyst untuk menunjukkan kemampuan dalam mengelola data, melakukan analisis mendalam, dan mengkomunikasikan insight bisnis melalui visualisasi
 
 **Masalah Bisnis**
 Perusahaan ingin memahami pola penjualan dan perilaku pelanggan untuk membuat keputusan yang lebih baik. Beberapa pertanyaan utama yang dianalisis dalam proyek ini meliputi:
+
 Bagaimana tren penjualan dari waktu ke waktu (harian, mingguan, bulanan)?
 Kategori produk mana yang memiliki penjualan paling tinggi?
 Apakah ada perbedaan perilaku pembelian antara berbagai kelompok usia dan gender?
-Bagaimana total penjualan bervariasi berdasarkan hari dalam seminggu?
-
-
-**Alat dan Teknologi**
-Proyek ini dikerjakan menggunakan tiga alat utama untuk menunjukkan alur kerja analisis data yang lengkap:
-Microsoft Excel: Digunakan untuk pengolahan data awal, pembersihan, dan analisis dasar.
-MySQL: Digunakan untuk menyimpan data dan melakukan analisis mendalam dengan query SQL.
-Power BI: Digunakan untuk membuat dashboard interaktif yang memvisualisasikan insight utama dari data.
-
-
-Ringkasan Proyek
-Proyek ini bertujuan untuk melakukan analisis mendalam terhadap data penjualan retail. Proyek ini dibuat sebagai bagian dari portofolio Data Analyst untuk menunjukkan kemampuan dalam mengelola data, melakukan analisis mendalam, dan mengkomunikasikan insight bisnis melalui visualisasi.
-
-Masalah Bisnis
-Perusahaan ingin memahami pola penjualan dan perilaku pelanggan untuk membuat keputusan yang lebih baik. Beberapa pertanyaan utama yang dianalisis dalam proyek ini meliputi:
-
-Bagaimana tren penjualan dari waktu ke waktu (harian, mingguan, bulanan)?
-
-Kategori produk mana yang memiliki penjualan paling tinggi?
-
-Apakah ada perbedaan perilaku pembelian antara berbagai kelompok usia dan gender?
-
 Bagaimana total penjualan bervariasi berdasarkan hari dalam seminggu?
 
 **Alat dan Teknologi**
