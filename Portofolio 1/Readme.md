@@ -19,10 +19,6 @@ Microsoft Excel: Digunakan untuk pengolahan data awal, pembersihan, dan analisis
 MySQL: Digunakan untuk menyimpan data dan melakukan analisis mendalam dengan query SQL.
 Power BI: Digunakan untuk membuat dashboard interaktif yang memvisualisasikan insight utama dari data.
 
-Tentu, saya akan membantu Anda membuat file README.md yang lengkap dan profesional untuk proyek portofolio Data Analyst Anda. Anda bisa menyalin semua teks di bawah ini dan mengisinya dengan detail proyek Anda.
-
-[Nama Proyek Anda]
-Analisis Penjualan Retail dengan SQL, Excel, dan Power BI
 
 Ringkasan Proyek
 Proyek ini bertujuan untuk melakukan analisis mendalam terhadap data penjualan retail. Proyek ini dibuat sebagai bagian dari portofolio Data Analyst untuk menunjukkan kemampuan dalam mengelola data, melakukan analisis mendalam, dan mengkomunikasikan insight bisnis melalui visualisasi.
